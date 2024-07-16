@@ -1,4 +1,4 @@
-# DAY-3 | File handling in Python
+# DAY-2,_part2 | File handling in Python
 
 Handling files and directories is a common task in programming. Python provides a rich set of modules in its standard library to work with files and directories. 
 
