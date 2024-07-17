@@ -17,6 +17,7 @@ user_input_float = float(input("Enter a float: "))
 user_input_string = input("Enter a string: ")
 
 # Printing the inputs
+#f-string, to call the expressions enclosed in curly braces {}.
 print(f"You entered an integer: {user_input_int}")
 print(f"You entered a float: {user_input_float}")
 print(f"You entered a string: {user_input_string}")
@@ -48,6 +49,10 @@ if num % 2 == 0:
     print("The number is even.")
 else:
     print("The number is odd.")
+
+#In Python, num % 2 == 0 checks whether a number (num) is even. Let’s break it down:
+#The % operator calculates the remainder after dividing num by 2.
+#If the remainder is zero, it means the number is even.
 ```
 
 ### `elif` statement:
