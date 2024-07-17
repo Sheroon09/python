@@ -1,4 +1,4 @@
-# Day-4 | User Inputs, Control Statements, Loops
+# Day-3 | User Inputs, Control Statements, Loops
 
 ## User Inputs
 
